@@ -9,8 +9,8 @@ polinômios e a um problema típico de programação competitiva
 
 - `poly_fft_functions.py`  
   Funções básicas para multiplicação de polinômios:
-  - `naive_polynomial_multiply(a, b)`: implementação ingênua em \\(O(n^2)\\).
-  - `fft_polynomial_multiply(a, b)`: implementação via FFT (NumPy), em \\(O(n \log n)\\).
+  - `naive_polynomial_multiply(a, b)`: implementação ingênua em O(n^2)
+  - `fft_polynomial_multiply(a, b)`: implementação via FFT (NumPy), em O(n log n).
 
 - `run_fft_benchmark.py`  
   Script que:
